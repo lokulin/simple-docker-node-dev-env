@@ -1,0 +1,8 @@
+# dev dirs
+node_modules
+bower_components
+build
+
+# dev temp files
+add_user.sh
+*.swp

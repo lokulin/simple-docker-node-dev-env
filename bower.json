@@ -1,0 +1,8 @@
+{
+  "name": "discover",
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "~1.4.5"
+  }
+}
